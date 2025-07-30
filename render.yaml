@@ -1,0 +1,6 @@
+services:
+	type: web
+	name: cloud
+	runtime: python
+	buildCommand: ""
+	startCommand: "python3 app.py"
